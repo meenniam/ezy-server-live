@@ -1,0 +1,23 @@
+{
+  "name": "ezy-server-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meenniam/ezy-server-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meenniam/ezy-server-live/issues"
+  },
+  "homepage": "https://github.com/meenniam/ezy-server-live#readme",
+  "dependencies": {
+    "node-media-server": "^2.1.0"
+  }
+}
