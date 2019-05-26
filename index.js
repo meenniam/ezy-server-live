@@ -1,5 +1,5 @@
 const NodeMediaServer = require('node-media-server');
-var port = process.env.PORT || 5000;
+const port = process.env.PORT || 5000;
 
 const config = {
   rtmp: {
